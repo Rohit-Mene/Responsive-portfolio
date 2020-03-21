@@ -319,7 +319,7 @@ transform: rotate(-45deg);
   
 }
 
-,.portfolio-item:last-child{
+.portfolio-item:last-child{
     margin-bottom: 0;
 }
 
